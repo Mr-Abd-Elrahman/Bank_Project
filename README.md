@@ -7,7 +7,7 @@
  
 ---
 # 📂 Project versions : 
-# 1️⃣ Bank 1 (Original)
+## 1️⃣ Bank 1 (Original)
 The base version of the banking system with essential client managemnt features:
 - Add,Delete,Update and find Clients
 - basic Deposit and Withdraw
@@ -15,7 +15,7 @@ The base version of the banking system with essential client managemnt features:
 - Data stored in plain text file
 
 ---
-# 2️⃣ Bank 1 (1st Extension) 
+## 2️⃣ Bank 1 (1st Extension) 
 Enhanced with more real-world banking operations:
 - Transfer money between accounts
 - Additional input Validation
@@ -23,24 +23,24 @@ Enhanced with more real-world banking operations:
 
 ---
 
-# 3️⃣ Bank 1 2an Extension (version 2.0)
-## 🚀 Smart Banking suit_Advanced Features
+## 3️⃣ Bank 1 2an Extension (version 2.0)
+#### 🚀 Smart Banking suit_Advanced Features
 
-- User Management system
+- **User Management system**
    - Rol_based Permissions
    - Add,Delete,Update and Find Users
-- Improved Transactions
+- **Improved Transactions**
    - safe deposits and withdrawls with overdraft prevention
-- Persistent Data
+- **Persistent Data**
    - User and Client INFO saved across sessions
-- Refactored Codebase
+- **Refactored Codebase**
    - Better modularity,cleaner sturcture,enms & strucs
-- Upgrade console UI
+- **Upgrade console UI**
   -Smother navigation and professional design
 
 ---
 
-# 🛠️ Tech stack
+## 🛠️ Tech stack
 - **Language:** C++
 - **Paradigm:** procedural with structured programming concepts
 - **Data Storage:** Text file for persistent Data
