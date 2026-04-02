@@ -15,7 +15,7 @@ The base version of the banking system with essential client managemnt features:
 - Data stored in plain text file
 
 ---
-## 2️⃣ Bank-1 (1st Extension) 
+## 2️⃣ Bank 1-(1st Extension) 
 Enhanced with more real-world banking operations:
 - Transfer money between accounts
 - Additional input Validation
