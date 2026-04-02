@@ -41,10 +41,10 @@ Enhanced with more real-world banking operations:
 ---
 
 # 🛠️ Tech stack
-- **Language:**C++
-- **Paradigm:**procedural with structured programming concepts
-- **Data Storage:**Text file for persistent Data
-- **Platform:**Consol app (Windows / Linux)
+- **Language:** C++
+- **Paradigm:** procedural with structured programming concepts
+- **Data Storage:** Text file for persistent Data
+- **Platform:** Consol app (Windows / Linux)
 ---
    
  
